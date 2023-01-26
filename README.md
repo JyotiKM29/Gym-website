@@ -1,70 +1,75 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 🏋️ Gym Website 🏋️
 
-## Available Scripts
+-  A gym website is a digital platform that allows users to access information about a gym, such as class schedules, membership options, and gym locations.
 
-In the project directory, you can run:
+- Building a gym website using React.js can be a great way to create a dynamic and visually-appealing user interface for users.
 
-### `npm start`
+-  It also can provide users with the ability to sign up for classes, purchase memberships, and manage their account online.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+ -  The website can feature a variety of sections such as the gym's facilities, trainers, pricing, testimonials and more.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- The website can also feature a blog section where the users can find health and fitness related articles and tips, this will help the users to be more engaged with the gym. 
 
-### `npm test`
+- Additionally, the website can also include a section for customer service and support, where users can contact the gym with any questions or concerns.
+## Demo 🏋️
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Check demo of website at [gym-App](https://mellifluous-frangipane-de7d40.netlify.app/)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Technology Know 🫶
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. Html
+2. CSS
+3. JavaScript
+4. React.js
+5. Firebase
+## Installation 💻
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Install my gym-website on your local machine
+I use yarn for this project.
 
-### `npm run eject`
+ Step 1 --> To install all dependencies
+```bash
+   yarn install
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+ Step 2 --> Now , Start project on your local machine
+```bash
+   yarn start
+```
+    
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+ Step 3 --> Go , to Link mention in terminal project is live there
+```bash
+   http://localhost:3000/
+```
+    
+    
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Features 🤩
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+1. UI design Figma 
+2. login and Sign on firebase working
+3. Programs in gym
+4. Why choose us
+5. Plan chart
+6. Testimonials
 
-## Learn More
+ Adding Features in future ...
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Deployment 🎬
 
-### Code Splitting
+To deploy this project run, use build folder for Deployment.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+```bash
+  yarn build 
+```
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+##  Authors 👩‍💻
 
-### Making a Progressive Web App
+[JyotiKM](https://github.com/JyotiKM29/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
